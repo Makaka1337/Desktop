@@ -21,8 +21,8 @@ class fraction:
     def __add__(self,right):
         return Fraction(self.__numerator * right.__denumerator + right.__numerator * self.__denumerator,right__denumerator*right.__denumerator)
 
-
-    
+#aasd
+#asda
 
 f1 = fraction(1,3)
 f2 = fraction(1,4)
